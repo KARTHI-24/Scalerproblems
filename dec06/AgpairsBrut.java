@@ -26,7 +26,7 @@ public class AgpairsBrut {
 		int count=AgpairsBrut.brutforce(c);
 		System.out.println(count);
         ///
-		
+		///
 	}
 
 }
