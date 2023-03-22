@@ -25,7 +25,8 @@ public class AgpairsBrut {
 		char[] c= {'a','b','g','j','a','g'};//ag pairs--->3 pairs
 		int count=AgpairsBrut.brutforce(c);
 		System.out.println(count);
-
+        ///
+		
 	}
 
 }
